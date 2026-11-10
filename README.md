@@ -52,7 +52,7 @@ My digital space brings together projects, tools, visual experiences and content
 | [**Wand-WeMod-PRO**](https://github.com/Andercore/Wand-WeMod-PRO) | Fork with automated builds for updated branches. | 🔧 C# / Build |
 
 <p align="center">
-  <a href="https://github.com/Andercore?tab=repositories"><img src="https://img.shields.io/badge/Ver%20todos%20os%20reposit%C3%B3rios-0b6e8e?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" /></a>
+  <a href="https://github.com/Andercore?tab=repositories"><img src="https://img.shields.io/badge/View%20all%20repositories-0b6e8e?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" /></a>
 </p>
 
 ## 📊 GitHub by the numbers
@@ -89,7 +89,7 @@ My digital space brings together projects, tools, visual experiences and content
 
 <div align="center">
   <br />
-  <i>“A tecnologia fica mais interessante quando transforma curiosidade em algo que podemos usar.”</i>
+  <i>“Technology becomes more interesting when curiosity turns into something we can use.”</i>
   <br /><br />
   Made with 💙 by <strong>Andercore</strong>
 </div>
