@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Andercore/Andercore.tech/main/content/pages/images/andercore-mark.svg" width="96" alt="Andercore logo" />
 
-  <h1>Olá, eu sou o Andercore 👋</h1>
+  <h1>Hi, I'm Andercore 👋</h1>
 
   <a href="https://andercore.tech/"><img src="https://img.shields.io/badge/Website-andercore.tech-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://github.com/Andercore"><img src="https://img.shields.io/badge/GitHub-Andercore-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
@@ -16,21 +16,21 @@
 <br />
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Transformo+ideias+em+projetos+%C3%BAteis+%E2%9A%A1;Construo+ferramentas%2C+automa%C3%A7%C3%B5es+e+experi%C3%AAncias+web+%F0%9F%9B%A0%EF%B8%8F;Tecnologia%2C+gaming+e+criatividade+em+um+s%C3%B3+lugar+%F0%9F%8E%AE" alt="Typing animation" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=I+turn+ideas+into+useful+projects+%E2%9A%A1;I+build+tools%2C+automations+and+web+experiences+%F0%9F%9B%A0%EF%B8%8F;Technology%2C+gaming+and+creativity+in+one+place+%F0%9F%8E%AE" alt="Typing animation" /></a>
 </div>
 
-## 🚀 Sobre mim
+## 🚀 About me
 
-Sou um **developer e criador digital** interessado em transformar ideias em experiências reais. Aprendo construindo: exploro desenvolvimento web, automação, scripts, personalização de interfaces, gaming e comunidades digitais.
+I'm a **developer and digital creator** interested in turning ideas into real experiences. I learn by building: exploring web development, automation, scripting, interface customization, gaming and digital communities.
 
-O meu espaço digital reúne projetos, ferramentas, experiências visuais e conteúdo para quem gosta de tecnologia com identidade e criatividade.
+My digital space brings together projects, tools, visual experiences and content for people who enjoy technology with identity and creativity.
 
-- 🧠 Foco em **web, automação e ferramentas práticas**
-- 🎨 Gosto de juntar **lógica, design e identidade visual**
-- 🎮 Interessado em **gaming, streaming e comunidades online**
-- 🌍 A construir projetos com curiosidade, experimentação e consistência
+- 🧠 Focused on **web, automation and practical tools**
+- 🎨 I enjoy combining **logic, design and visual identity**
+- 🎮 Interested in **gaming, streaming and online communities**
+- 🌍 Building projects with curiosity, experimentation and consistency
 
-## 🧰 Tecnologias e interesses
+## 🧰 Technologies and interests
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,discord,figma,vscode&theme=dark" alt="Technologies" />
@@ -42,20 +42,20 @@ O meu espaço digital reúne projetos, ferramentas, experiências visuais e cont
 
 </div>
 
-## ⭐ Projetos em destaque
+## ⭐ Featured projects
 
-| Projeto | Descrição | Área |
+| Project | Description | Area |
 | --- | --- | --- |
-| [**spicetify**](https://github.com/Andercore/spicetify) | Personalização visual e exploração de interfaces. | 🎨 UI / UX |
-| [**youtube-downloader**](https://github.com/Andercore/youtube-downloader) | Ferramenta prática para fluxos multimédia e automação. | ⚙️ Python |
-| [**discord-orbs**](https://github.com/Andercore/discord-orbs) | Projeto para interação e funcionalidades em comunidades Discord. | 💬 Community |
-| [**Wand-WeMod-PRO**](https://github.com/Andercore/Wand-WeMod-PRO) | Fork com automação de builds para branches atualizadas. | 🔧 C# / Build |
+| [**spicetify**](https://github.com/Andercore/spicetify) | Visual customization and interface exploration. | 🎨 UI / UX |
+| [**youtube-downloader**](https://github.com/Andercore/youtube-downloader) | Practical tool for multimedia workflows and automation. | ⚙️ Python |
+| [**discord-orbs**](https://github.com/Andercore/discord-orbs) | Project for interaction and features in Discord communities. | 💬 Community |
+| [**Wand-WeMod-PRO**](https://github.com/Andercore/Wand-WeMod-PRO) | Fork with automated builds for updated branches. | 🔧 C# / Build |
 
 <p align="center">
   <a href="https://github.com/Andercore?tab=repositories"><img src="https://img.shields.io/badge/Ver%20todos%20os%20reposit%C3%B3rios-0b6e8e?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" /></a>
 </p>
 
-## 📊 GitHub em números
+## 📊 GitHub by the numbers
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Andercore&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=030b14&title_color=22d3ee&text_color=cbd5e1&icon_color=38bdf8&rank_icon=github" alt="GitHub statistics" />
@@ -72,7 +72,7 @@ O meu espaço digital reúne projetos, ferramentas, experiências visuais e cont
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andercore&bg_color=030b14&color=cbd5e1&line=22d3ee&point=f59e0b&area=true&hide_border=true" width="96%" alt="GitHub activity graph" />
 </div>
 
-## 🌐 Encontra-me online
+## 🌐 Find me online
 
 <div align="center">
   <a href="https://www.youtube.com/channel/UCN_zhrjG-mYyT-MPKw0Gutw"><img src="https://img.shields.io/badge/YouTube-Andercore-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
@@ -91,7 +91,7 @@ O meu espaço digital reúne projetos, ferramentas, experiências visuais e cont
   <br />
   <i>“A tecnologia fica mais interessante quando transforma curiosidade em algo que podemos usar.”</i>
   <br /><br />
-  Feito com 💙 por <strong>Andercore</strong>
+  Made with 💙 by <strong>Andercore</strong>
 </div>
 
 <div align="center">
