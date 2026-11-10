@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Andercore/Andercore.tech/main/content/pages/images/andercore-mark.svg" width="96" alt="Andercore logo" />
+  <img src="https://github.com/Andercore.png?size=192" width="96" alt="Andercore profile image" />
 
   <h1>Hi, I'm Andercore 👋</h1>
 
@@ -58,18 +58,15 @@ My digital space brings together projects, tools, visual experiences and content
 ## 📊 GitHub by the numbers
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Andercore&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=030b14&title_color=22d3ee&text_color=cbd5e1&icon_color=38bdf8&rank_icon=github" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andercore&layout=compact&langs_count=8&hide_border=true&bg_color=030b14&title_color=22d3ee&text_color=cbd5e1" alt="Top languages" />
+  <img src="https://img.shields.io/github?label=Repositories&message=5&color=0b6e8e&style=for-the-badge&logo=github" alt="Public repositories" />
+  <img src="https://img.shields.io/github/stars/Andercore?label=Total%20stars&color=f59e0b&style=for-the-badge&logo=github" alt="Total stars" />
+  <img src="https://img.shields.io/github/commit-activity/y/Andercore/Andercore?label=Yearly%20activity&color=22d3ee&style=for-the-badge&logo=github" alt="Yearly activity" />
 </div>
 
 <br />
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Andercore&hide_border=true&background=030b14&ring=22d3ee&fire=f59e0b&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub contribution streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andercore&bg_color=030b14&color=cbd5e1&line=22d3ee&point=f59e0b&area=true&hide_border=true" width="96%" alt="GitHub activity graph" />
 </div>
 
 ## 🌐 Find me online
